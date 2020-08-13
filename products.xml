@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Beauty>
+  <Address>
+    <ProductName>Liquid Foundation</ProductName>
+    <AvailableProducts>15</AvailableProducts>
+    <Brand>Mabilline Liquid Foundation</Brand>
+    <PRICE>899/-</PRICE>
+  </Address>
+  <Address>
+    <ProductName>Liquid Lipsticks</ProductName>
+    <AvailableProducts>25</AvailableProducts>
+    <Brand>lakme Liquid lip </Brand>
+    <PRICE>599/-</PRICE>
+  </Address>
+  <Address>
+    <ProductName>Matte compact</ProductName>
+    <AvailableProducts>15</AvailableProducts>
+    <Brand>LA girl </Brand>
+    <PRICE>399/-</PRICE>
+  </Address>
+  <Address>
+    <ProductName>Lipliners</ProductName>
+    <AvailableProducts>85</AvailableProducts>
+    <Brand>Mabilline newyork</Brand>
+    <PRICE>400/-</PRICE>
+  </Address>
+  <Address>
+    <ProductName>facial kits</ProductName>
+    <AvailableProducts>15</AvailableProducts>
+    <Brand>Vlcc </Brand>
+    <PRICE>600/-</PRICE>
+  </Address>
+  <Address>
+    <ProductName>Nailart</ProductName>
+    <AvailableProducts>35</AvailableProducts>
+    <Brand>Germe</Brand>
+    <PRICE>399/-</PRICE>
+  </Address>
+  <Address>
+    <ProductName>brushes kit</ProductName>
+    <AvailableProducts>15</AvailableProducts>
+    <Brand>wet and wild</Brand>
+    <PRICE>369/-</PRICE>
+  </Address>
+  <Address>
+    <ProductName>eyeshaadow</ProductName>
+    <AvailableProducts>35</AvailableProducts>
+    <Brand>LA girl </Brand>
+    <PRICE>399/-</PRICE>
+  </Address>
+  <Address>
+    <ProductName>eyeliner</ProductName>
+    <AvailableProducts>15</AvailableProducts>
+    <Brand>wet and wild </Brand>
+    <PRICE>99/-</PRICE>
+  </Address>
+  <Address>
+    <ProductName>highlighter</ProductName>
+    <AvailableProducts>55</AvailableProducts>
+    <Brand>LA girl </Brand>
+    <PRICE>299/-</PRICE>
+  </Address>
+  <Address>
+    <ProductName>conceller</ProductName>
+    <AvailableProducts>85</AvailableProducts>
+    <Brand>LA girl and wet and wild </Brand>
+    <PRICE>399/-</PRICE>
+  </Address>
+  <Address>
+    <ProductName>Matte lip</ProductName>
+    <AvailableProducts>15</AvailableProducts>
+    <Brand>Lakme </Brand>
+    <PRICE>400/-</PRICE>
+  </Address>
+  <Address>
+    <ProductName>maskara</ProductName>
+    <AvailableProducts>95</AvailableProducts>
+    <Brand>usa</Brand>
+    <PRICE>620/-</PRICE>
+  </Address>
+  <Address>
+    <ProductName>lotion</ProductName>
+    <AvailableProducts>15</AvailableProducts>
+    <Brand>netriderm </Brand>
+    <PRICE>899/-</PRICE>
+  </Address>
+  <Address>
+    <ProductName>body lotion</ProductName>
+    <AvailableProducts>100</AvailableProducts>
+    <Brand>nivea</Brand>
+    <PRICE>399/-</PRICE>
+  </Address>
+  <Address>
+    <ProductName>skincare kit</ProductName>
+    <AvailableProducts>15</AvailableProducts>
+    <Brand>LA girl </Brand>
+    <PRICE>399/-</PRICE>
+  </Address>
+</Beauty>
